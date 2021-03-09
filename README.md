@@ -2,7 +2,8 @@
   <img src="quizzler.gif" alt="animated" />
 </p>
 <h1 align="center"> Quizzler </h1>
-## Goal
+
+# Goal
 
 This project is a part of IOS Bootcamp which I am completing now on [Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp).
 The goal of this project is to learn the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem.
